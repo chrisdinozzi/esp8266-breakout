@@ -16,6 +16,8 @@ The file structure is very basic and should be quite self explanatory. The only 
 # Wiring
 I'll be the first to admit - not the most beautiful thing in the world, but hopefully should provide some assistance if you are hoping to recreate this project or something similar.
 
+![circuit](https://github.com/chrisdinozzi/esp8266-breakout/blob/master/media/wemose.png "Circuit")
+
 # Features
 The paddle is controlled using the variable resistor. The gameplay is displayed on the tiny screen and the players 3 lives are tracked using the LEDs on the LED&KEY board, along with the score. 
 When the game ends, the using can choose to play again by turning the resistor to the desired option and pressing the first button on the LED&KEY, or simply resetting the wemos board.
